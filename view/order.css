@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #666666;
+}
+main {
+    width: 450px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+}
+h1 {
+    color: navy;
+    padding: 0;
+    margin: 0.5em 0 .5em .5em;
+}
+p {
+    margin: .5em 0;
+}
+fieldset {
+    margin: 0;
+    margin-bottom: .5em;
+    padding-left: 1em;
+}
+.textbox {
+    width: 1.5em;
+    text-align: center;
+}
+th {
+	text-align: left;
+}
+.price {
+	text-align: right;
+}
+th, td {
+	border: 1px solid black;
+	padding: 5px;
+}
+table {
+	border-collapse: collapse;
+}
+.error_field {
+	padding-left: 5px;
+	color: red;
+}
+#gift {
+	margin-left: 1.3em;
+}
+.moneytd {
+            text-align: right;
+}
